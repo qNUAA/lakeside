@@ -101,4 +101,4 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: _site
-          target_branch: 'gh-pages'  # 部署到 gh-pages 分支
+          target_branch: gh-pages  # 部署到 gh-pages 分支
